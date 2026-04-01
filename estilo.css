@@ -1,6 +1,11 @@
 h1{
   color: #B689DE;
-  font-size: 36px;
-  font-family: Lobster;
+  font-size: 60px;
+  font-family: "Lobster";
   text-align: center;
+}
+h2{
+  font-size: 28px;
+  font-family: "Times New Roman";
+  text-align: justified;
 }
