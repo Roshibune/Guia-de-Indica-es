@@ -17,6 +17,7 @@ p{
 .menu{
   font-size: 35px;
   font-family:"Comic Sans MS";
+  text-align: center;
   gap: 30px;
   text-decoration: none;
 }
