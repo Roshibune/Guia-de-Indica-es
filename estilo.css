@@ -21,11 +21,14 @@ p{
   margin: 20px;
   border-radius: 30px;
 }
+.menu {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
 .menu a{
   font-size: 35px;
   font-family:"Comic Sans MS";
-  text-align: center;
-  line-height: 1.8;
   text-decoration: none;
   background-color: #E7C3D8;
   padding: 30px;
