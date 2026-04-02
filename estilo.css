@@ -18,10 +18,10 @@ p{
   margin: 10px;
   border-radius: 15px;
 }
-.menu{
+.menu a{
   font-size: 35px;
   font-family:"Comic Sans MS";
   text-align: center;
-  gap: 30px;
+  gap: 70px;
   text-decoration: none;
 }
