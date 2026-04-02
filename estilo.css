@@ -25,9 +25,9 @@ p{
   font-size: 35px;
   font-family:"Comic Sans MS";
   text-align: center;
-  gap: 40px;
+  line-height: 1.8;
   text-decoration: none;
   background-color: #E7C3D8;
-  padding: 50px;
+  padding: 30px;
   margin: 20px;
 }
