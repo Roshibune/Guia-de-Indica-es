@@ -46,6 +46,7 @@ p{
 }
 .img-anime {
   width: 800px;
+  vertical-align: middle;
 }
 .icon {
   width: 95px;
