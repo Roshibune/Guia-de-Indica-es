@@ -1,9 +1,9 @@
 h1{
   color: #B689DE;
-  font-size: 70px;
+  font-size: 100px;
   font-family: "Lobster";
   text-align: center;
-  background-color: #BFBFBF;
+  background-color: #E7C3D8;
   padding: 90px;
   margin: 0px;
 }
@@ -16,10 +16,10 @@ p{
   font-size: 28px;
   font-family: "Times New Roman";
   text-align: justify;
-  background-color: #BFBFBF;
+  background-color: #8BB9BE;
   padding: 15px;
-  margin: 10px;
-  border-radius: 15px;
+  margin: 20px;
+  border-radius: 30px;
 }
 .menu a{
   font-size: 35px;
@@ -27,7 +27,7 @@ p{
   text-align: center;
   gap: 40px;
   text-decoration: none;
-  background-color: #A4A4A4;
+  background-color: #E7C3D8;
   padding: 50px;
   margin-bottom: 40px;
   margin-top: 0px;
