@@ -6,13 +6,17 @@ h1{
 }
 h2{
   font-size: 55px;
-  font-family: "Times New Roman";
+  font-family: "Comic Sans MS";
   text-align: left;
 }
 p{
   font-size: 28px;
   font-family: "Times New Roman";
   text-align: justify;
+  background-color: #BFBFBF;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 15px;
 }
 .menu{
   font-size: 35px;
