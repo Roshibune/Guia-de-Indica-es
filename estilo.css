@@ -61,21 +61,22 @@ p{
   text-decoration: none;
 }
 .img-genero{
-  width: 200px;
+  width: 750px;
+  display: block;
   margin: 20px;
   margin-bottom: 5px;
+  transition: transform 0.3s ease;
+}
+.img-genero:hover{
+  transform: scale(1.1);
 }
 .genero{
   color: black;
   font-size: 45px;
   font-family: "Comic Sans MS";
   text-align: center;
-  margin: 15px;
+  margin: 30px;
   margin-top: 0px;
-  transition: transform 0.3s ease;
-}
-.genero:hover{
-  transform: scale(1.1);
 }
 .sinopse{
   font-size: 28px;
