@@ -60,3 +60,31 @@ p{
   color: #704697;
   text-decoration: none;
 }
+.img-genero{
+  width: 200px;
+  margin: 20px;
+  margin-bottom: 5px;
+}
+.genero{
+  color: black;
+  font-size: 45px;
+  font-family: "Comic Sans MS";
+  text-align: center;
+  margin: 15px;
+  margin-top: 0px;
+  transition: transform 0.3s ease;
+}
+.genero:hover{
+  transform: scale(1.1);
+}
+.sinopse{
+  font-size: 28px;
+  font-family: "Times New Roman";
+  text-align: justify;
+  background-color: #D3BBEA;
+  padding: 20px;
+  margin: 10px;
+  margin-left: 80px;
+  margin-right: 80px;
+  border-radius: 30px;
+}
