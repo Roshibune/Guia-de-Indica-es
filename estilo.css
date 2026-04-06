@@ -90,10 +90,10 @@ p{
   font-family: "Times New Roman";
   text-align: justify;
   background-color: #D3BBEA;
-  padding: 20px;
+  padding: 40px;
   margin: 10px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 140px;
+  margin-right: 140px;
   border-radius: 30px;
 }
 .img-ilustrativa{
@@ -101,4 +101,5 @@ p{
   display: block;
   margin: 0 auto;
   margin-bottom: 5px;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.5);
 }
