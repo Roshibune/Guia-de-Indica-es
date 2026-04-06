@@ -91,3 +91,9 @@ p{
   margin-right: 80px;
   border-radius: 30px;
 }
+.img-ilustrativa{
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 5px;
+}
